@@ -3,8 +3,6 @@
 Este repositorio contiene un CRUD (Crear, Leer, Actualizar, Eliminar) de usuarios desarrollado con Python, Flask, PostgreSQL y JavaScript. La aplicación permite la gestión completa de usuarios, incluyendo la creación, visualización, actualización y eliminación de registros de usuarios en una base de datos PostgreSQL.
 
 
-Perfecto, ahora vamos a detallar cómo podrías abordar el punto dos, que es la instalación. Aquí tienes un ejemplo de cómo podrías estructurar esa sección en tu README:
-
 ---
 
 ## Instalación
@@ -57,10 +55,6 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente en tu sistema:
 
 ---
 
-Excelente, sigamos con el siguiente punto, que es el uso del proyecto. Aquí te muestro cómo podrías abordarlo en tu README:
-
----
-
 ## Uso
 
 A continuación se detallan las instrucciones sobre cómo utilizar este proyecto una vez que esté instalado y en funcionamiento en tu entorno local.
@@ -103,10 +97,6 @@ Para detener el servidor Flask, simplemente presiona `Ctrl + C` en tu terminal. 
 
 ---
 
-Por supuesto, aquí está la actualización para incluir Cryptography como parte de las tecnologías utilizadas en tu proyecto:
-
----
-
 ## Tecnologías Utilizadas
 
 El proyecto está desarrollado utilizando las siguientes tecnologías y herramientas:
@@ -121,6 +111,6 @@ El proyecto está desarrollado utilizando las siguientes tecnologías y herramie
 - **Bootswatch**: Temas de Bootstrap personalizados utilizados para estilizar la interfaz de usuario de la aplicación web.
 - **JavaScript**: Lenguaje de programación utilizado para agregar interactividad a la interfaz de usuario y consumir una API para mostrar datos dinámicamente.
 
-Estas tecnologías se combinan para crear una aplicación web funcional y robusta que permite a los usuarios registrar, editar y eliminar información de usuario, así como también mostrar datos dinámicamente utilizando JavaScript para consumir la API.
+Estas tecnologías se combinan para crear una aplicación web funcional que permite a los usuarios registrar, editar y eliminar información de usuario, así como también mostrar datos dinámicamente utilizando JavaScript para consumir la API.
 
 ---
